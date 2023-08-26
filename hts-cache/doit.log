@@ -1,5 +1,5 @@
 https://www.democracygps.org/ -O democracygps-mirror +*.democracygps.org/* -blog.democracygps.org/* -v
-File generated automatically on Sat, 26 Aug 2023 11:16:22, do NOT edit
+File generated automatically on Sat, 26 Aug 2023 11:18:14, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
