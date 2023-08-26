@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.democracygps.org	TRUE	/faq	FALSE	1999999999	RecentRedirect	1:1693073798:F9yE3eFhgJjWNUSTYJTYAUW0mUlokGuIASRZHf1CL6I=
+www.democracygps.org	TRUE	/	FALSE	1999999999	crumb	Bf6o+X6+yI9+MzMzZTM0ODIxMmU2NGY4MGE3YTk2ZGU2YmU0MjJh
+
